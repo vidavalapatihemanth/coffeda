@@ -1,1 +1,3 @@
 Hello Git 
+i am initialized git
+i am saving the git
